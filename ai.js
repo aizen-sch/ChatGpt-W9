@@ -135,10 +135,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     resolve('مولاي ');
                     } else if (lowerQuery.includes('شكون ممشوط')) {
                     resolve('الي حواك');
-                    } else if (lowerQuery.includes('ckon')) {
-                    resolve('ali 7wak');
-                    } else if (lowerQuery.includes('ckon')) {
-                    resolve('ali 7wak');
+                    } else if (lowerQuery.includes('سلام')) {
+                    resolve('كيراك');
+                    } else if (lowerQuery.includes('مشي غايا')) {
+                    resolve('تناك');
                     } else if (lowerQuery.includes('ckon')) {
                     resolve('ali 7wak');
                     } else if (lowerQuery.includes('ckon')) {
